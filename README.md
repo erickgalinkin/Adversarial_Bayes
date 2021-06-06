@@ -1,5 +1,5 @@
 # Introduction
-This repository holds the code for the final project of CS 583 - Introduction to Computer Vision.
+This repository contains the code for the final project of CS 583 - Introduction to Computer Vision.
 The goal of this repository is to train a control and a Bayesian "experimental" version of two different architectures on the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset.
 These architectures are then evaluated for adversarial robustness using a set of techniques from the [Counterfit](https://github.com/Azure/counterfit) project.
 
